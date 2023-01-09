@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Typerscript
 - 👯 I'm looking to collaborate in growing the Dev community
 
-<div align="left">
+<div style="display: inline_block">
   <a href="https://github.com/k-js">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-js&show_icons=true&theme=default#gh-light-mode-only" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-js&layout=compact" />
