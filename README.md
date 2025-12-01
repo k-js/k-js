@@ -4,11 +4,6 @@
 - 🌱 I'm currently learning Typerscript
 - 👯 I'm looking to collaborate in growing the Dev community
 
-<div style="display: inline_block">
-  <a href="https://github.com/k-js">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-js&show_icons=true&theme=default#gh-light-mode-only" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-js&layout=compact" />
-</div>
    
 <div>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
